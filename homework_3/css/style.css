@@ -1,0 +1,73 @@
+@import url("reset.css");
+
+* {
+color: forestgreen;
+}
+p {
+   color: blue;
+}
+h2 {
+   color: coral;
+}
+.title {
+   color: red;
+}
+#trees-id {
+   color: darkslateblue;
+}
+[class*="xt"] {
+   color: black;
+}
+h3.link {
+   color: greenyellow;
+}
+.item,
+.item-2,
+li {
+   color: blue
+}
+.list-3 .item-2 {
+   color: brown;
+}
+.list * {
+   color: chartreuse;
+}
+.section-2 > p {
+   color: deepskyblue;
+}
+.title ~ p {
+   color: violet;
+}
+.item + li {
+   color: magenta;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Для бекенду: */
+.article p {
+   color: aqua;
+}
+.article mark {
+   color: blue;
+}
+.article li {
+   color: chocolate;
+}
