@@ -167,7 +167,6 @@ color: #FFF;
    line-height: 1.2;
    text-transform: uppercase;
    margin-bottom: 42px;
-   max-width: 193px;
 }
 .strong {
    color: #FFF;
@@ -188,8 +187,6 @@ font-weight: 700;
    font-weight: 700;
    line-height: 1.2;
    text-transform: uppercase;
-   max-width: 214px;
-   width: 100%;
    padding: 20px 40px;
    text-align: center;
 }
