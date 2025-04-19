@@ -117,7 +117,7 @@
    margin: 0 auto;
    padding-left: 15px;
    padding-right: 15px;
-   background-color: var(--412672, #412672);
+   background-color:  #412672;
 }
 .blocks{
    font-family: "Inter", sans-serif;
@@ -154,7 +154,7 @@
    margin-bottom: 40px;
 }
 .title {
-   color: var(--000000, #000);
+   color:  #000;
    font-size: 22px;
    font-weight: 600;
    padding: 16px 0;
@@ -196,12 +196,12 @@ line-height: 126.667%;
    font-weight: 400;
 }
 .container-3 h3 {
-   color: var(--412672, #412672);
+   color: #412672;
    font-size: 34px;
    margin-bottom: 20px;
 }
 .container-3 p {
-   color: var(--412672, #412672);
+   color: #412672;
    font-size: 22px;
    margin-bottom: 20px;
    line-height: 1.4;
